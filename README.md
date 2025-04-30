@@ -62,7 +62,6 @@ Question 9: List the top 2 departments with the highest number of products sold?
 a) Ranking each hour of each day of the week based on number of orders placed 
 •The Produce and Dairy Eggs are two most sold products.
  
-
 b) Grouping Order Hour of Day and Order DOW.
 c) Analyzing the top products ordered per group 
 
